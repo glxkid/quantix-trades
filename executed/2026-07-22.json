@@ -1,0 +1,78 @@
+[
+ {
+  "symbol": "SKHY",
+  "side": "short",
+  "entry_time": "2026-07-22T13:30:57.344598Z",
+  "entry_price": 163.39,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "SKHY",
+  "side": "short",
+  "entry_time": "2026-07-22T13:32:39.013091Z",
+  "entry_price": 164.0,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "AAOZ",
+  "side": "long",
+  "entry_time": "2026-07-22T13:35:00.127799Z",
+  "entry_price": 24.72,
+  "exit_time": "2026-07-22T13:35:24.137729Z",
+  "exit_price": 24.46,
+  "pnl_pct": -1.052,
+  "asset": "equity"
+ },
+ {
+  "symbol": "AAOZ",
+  "side": "long",
+  "entry_time": "2026-07-22T13:35:00.563045Z",
+  "entry_price": 24.72,
+  "exit_time": "2026-07-22T13:35:24.137729Z",
+  "exit_price": 24.46,
+  "pnl_pct": -1.052,
+  "asset": "equity"
+ },
+ {
+  "symbol": "AAOZ",
+  "side": "long",
+  "entry_time": "2026-07-22T13:35:00.563045Z",
+  "entry_price": 24.72,
+  "exit_time": "2026-07-22T13:35:24.865984Z",
+  "exit_price": 24.49,
+  "pnl_pct": -0.93,
+  "asset": "equity"
+ },
+ {
+  "symbol": "AAOZ",
+  "side": "long",
+  "entry_time": "2026-07-22T13:35:00.563045Z",
+  "entry_price": 24.72,
+  "exit_time": "2026-07-22T13:35:27.534506Z",
+  "exit_price": 24.47,
+  "pnl_pct": -1.011,
+  "asset": "equity"
+ },
+ {
+  "symbol": "MGY",
+  "side": "long",
+  "entry_time": "2026-07-22T14:06:47.895866Z",
+  "entry_price": 25.83,
+  "exit_time": "2026-07-22T19:50:03.116966Z",
+  "exit_price": 25.58,
+  "pnl_pct": -0.968,
+  "asset": "equity"
+ },
+ {
+  "symbol": "MGY",
+  "side": "long",
+  "entry_time": "2026-07-22T14:06:48.404792Z",
+  "entry_price": 25.83,
+  "exit_time": "2026-07-22T19:50:03.116966Z",
+  "exit_price": 25.58,
+  "pnl_pct": -0.968,
+  "asset": "equity"
+ }
+]
