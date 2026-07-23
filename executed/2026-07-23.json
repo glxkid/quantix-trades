@@ -1,0 +1,142 @@
+[
+ {
+  "symbol": "SPCH",
+  "side": "long",
+  "entry_time": "2026-07-23T13:35:08.587093Z",
+  "entry_price": 6.68,
+  "exit_time": "2026-07-23T14:14:46.613026Z",
+  "exit_price": 6.34,
+  "pnl_pct": -5.09,
+  "asset": "equity"
+ },
+ {
+  "symbol": "SPCH",
+  "side": "long",
+  "entry_time": "2026-07-23T13:35:08.587093Z",
+  "entry_price": 6.68,
+  "exit_time": "2026-07-23T14:14:47.771478Z",
+  "exit_price": 6.34,
+  "pnl_pct": -5.09,
+  "asset": "equity"
+ },
+ {
+  "symbol": "SPCH",
+  "side": "long",
+  "entry_time": "2026-07-23T15:04:14.402037Z",
+  "entry_price": 6.29,
+  "exit_time": "2026-07-23T18:40:04.182708Z",
+  "exit_price": 6.92,
+  "pnl_pct": 10.016,
+  "asset": "equity"
+ },
+ {
+  "symbol": "SPCH",
+  "side": "long",
+  "entry_time": "2026-07-23T15:04:15.354164Z",
+  "entry_price": 6.29,
+  "exit_time": "2026-07-23T18:40:04.182708Z",
+  "exit_price": 6.92,
+  "pnl_pct": 10.016,
+  "asset": "equity"
+ },
+ {
+  "symbol": "SPCH",
+  "side": "long",
+  "entry_time": "2026-07-23T15:04:15.560425Z",
+  "entry_price": 6.29,
+  "exit_time": "2026-07-23T18:40:04.182708Z",
+  "exit_price": 6.92,
+  "pnl_pct": 10.016,
+  "asset": "equity"
+ },
+ {
+  "symbol": "SPCH",
+  "side": "long",
+  "entry_time": "2026-07-23T15:04:16.468414Z",
+  "entry_price": 6.29,
+  "exit_time": "2026-07-23T18:40:04.182708Z",
+  "exit_price": 6.92,
+  "pnl_pct": 10.016,
+  "asset": "equity"
+ },
+ {
+  "symbol": "SPCH",
+  "side": "long",
+  "entry_time": "2026-07-23T15:04:17.067574Z",
+  "entry_price": 6.3,
+  "exit_time": "2026-07-23T18:40:04.182708Z",
+  "exit_price": 6.92,
+  "pnl_pct": 9.841,
+  "asset": "equity"
+ },
+ {
+  "symbol": "SPCH",
+  "side": "long",
+  "entry_time": "2026-07-23T15:04:17.841171Z",
+  "entry_price": 6.3,
+  "exit_time": "2026-07-23T18:40:04.182708Z",
+  "exit_price": 6.92,
+  "pnl_pct": 9.841,
+  "asset": "equity"
+ },
+ {
+  "symbol": "SPCH",
+  "side": "long",
+  "entry_time": "2026-07-23T18:49:23.915076Z",
+  "entry_price": 6.93,
+  "exit_time": "2026-07-23T19:50:02.894273Z",
+  "exit_price": 6.93,
+  "pnl_pct": 0.0,
+  "asset": "equity"
+ },
+ {
+  "symbol": "SPCH",
+  "side": "long",
+  "entry_time": "2026-07-23T18:49:23.915076Z",
+  "entry_price": 6.93,
+  "exit_time": "2026-07-23T19:50:04.189371Z",
+  "exit_price": 6.92,
+  "pnl_pct": -0.144,
+  "asset": "equity"
+ },
+ {
+  "symbol": "SPCH",
+  "side": "long",
+  "entry_time": "2026-07-23T19:50:51.78451Z",
+  "entry_price": 6.91,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "SPCH",
+  "side": "long",
+  "entry_time": "2026-07-23T19:50:52.495187Z",
+  "entry_price": 6.91,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "SPCH",
+  "side": "long",
+  "entry_time": "2026-07-23T19:50:53.380958Z",
+  "entry_price": 6.91,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "SPCH",
+  "side": "long",
+  "entry_time": "2026-07-23T19:50:53.985135Z",
+  "entry_price": 6.91,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "SPCH",
+  "side": "long",
+  "entry_time": "2026-07-23T19:50:54.721313Z",
+  "entry_price": 6.91,
+  "status": "open",
+  "asset": "equity"
+ }
+]
