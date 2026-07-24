@@ -1,0 +1,50 @@
+[
+ {
+  "symbol": "SPCH",
+  "side": "short",
+  "entry_time": "2026-07-24T13:42:09.917634Z",
+  "entry_price": 6.54,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "SMCI",
+  "side": "long",
+  "entry_time": "2026-07-24T13:46:23.832405Z",
+  "entry_price": 30.17,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "SMCI",
+  "side": "long",
+  "entry_time": "2026-07-24T13:46:24.204381Z",
+  "entry_price": 30.17,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "SMCI",
+  "side": "long",
+  "entry_time": "2026-07-24T13:46:25.117518Z",
+  "entry_price": 30.17,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "SMCI",
+  "side": "long",
+  "entry_time": "2026-07-24T13:46:25.571519Z",
+  "entry_price": 30.17,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "SMCI",
+  "side": "long",
+  "entry_time": "2026-07-24T13:46:26.221392Z",
+  "entry_price": 30.17,
+  "status": "open",
+  "asset": "equity"
+ }
+]
