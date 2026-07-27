@@ -1,0 +1,26 @@
+[
+ {
+  "symbol": "SMCI",
+  "side": "short",
+  "entry_time": "2026-07-27T14:37:46.639952Z",
+  "entry_price": 28.82,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "AMD260814C00520000",
+  "side": "long",
+  "entry_time": "2026-07-27T18:05:43.636779Z",
+  "entry_price": 24.25,
+  "status": "open",
+  "asset": "option"
+ },
+ {
+  "symbol": "AMD",
+  "side": "short",
+  "entry_time": "2026-07-27T18:05:48.392039Z",
+  "entry_price": 483.84,
+  "status": "open",
+  "asset": "equity"
+ }
+]
