@@ -1,0 +1,120 @@
+[
+ {
+  "symbol": "PLTR",
+  "side": "long",
+  "entry_time": "2026-07-28T13:34:35.917583Z",
+  "entry_price": 123.38,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "PLTR",
+  "side": "long",
+  "entry_time": "2026-07-28T13:34:59.846128Z",
+  "entry_price": 123.54,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "PLTR",
+  "side": "long",
+  "entry_time": "2026-07-28T13:35:04.711153Z",
+  "entry_price": 123.71,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "DFNS",
+  "side": "long",
+  "entry_time": "2026-07-28T13:39:10.147575Z",
+  "entry_price": 25.49,
+  "exit_time": "2026-07-28T13:39:35.117501Z",
+  "exit_price": 25.72,
+  "pnl_pct": 0.902,
+  "asset": "equity"
+ },
+ {
+  "symbol": "DFNS",
+  "side": "long",
+  "entry_time": "2026-07-28T13:39:10.746187Z",
+  "entry_price": 25.61,
+  "exit_time": "2026-07-28T13:39:35.117501Z",
+  "exit_price": 25.72,
+  "pnl_pct": 0.43,
+  "asset": "equity"
+ },
+ {
+  "symbol": "DFNS",
+  "side": "long",
+  "entry_time": "2026-07-28T13:39:11.669836Z",
+  "entry_price": 25.25,
+  "exit_time": "2026-07-28T13:39:35.117501Z",
+  "exit_price": 25.72,
+  "pnl_pct": 1.861,
+  "asset": "equity"
+ },
+ {
+  "symbol": "DFNS",
+  "side": "long",
+  "entry_time": "2026-07-28T13:39:12.597598Z",
+  "entry_price": 25.61,
+  "exit_time": "2026-07-28T13:39:35.117501Z",
+  "exit_price": 25.72,
+  "pnl_pct": 0.43,
+  "asset": "equity"
+ },
+ {
+  "symbol": "DFNS",
+  "side": "long",
+  "entry_time": "2026-07-28T13:39:13.202703Z",
+  "entry_price": 25.58,
+  "exit_time": "2026-07-28T13:39:35.117501Z",
+  "exit_price": 25.72,
+  "pnl_pct": 0.547,
+  "asset": "equity"
+ },
+ {
+  "symbol": "DFNS",
+  "side": "long",
+  "entry_time": "2026-07-28T13:39:14.085597Z",
+  "entry_price": 25.49,
+  "exit_time": "2026-07-28T13:39:35.117501Z",
+  "exit_price": 25.72,
+  "pnl_pct": 0.902,
+  "asset": "equity"
+ },
+ {
+  "symbol": "DFNS",
+  "side": "long",
+  "entry_time": "2026-07-28T13:39:14.524716Z",
+  "entry_price": 25.47,
+  "exit_time": "2026-07-28T13:39:35.117501Z",
+  "exit_price": 25.72,
+  "pnl_pct": 0.982,
+  "asset": "equity"
+ },
+ {
+  "symbol": "RIG",
+  "side": "long",
+  "entry_time": "2026-07-28T13:49:29.580494Z",
+  "entry_price": 5.11,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "RIG",
+  "side": "long",
+  "entry_time": "2026-07-28T13:49:30.684727Z",
+  "entry_price": 5.11,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "RIG",
+  "side": "long",
+  "entry_time": "2026-07-28T13:49:31.473307Z",
+  "entry_price": 5.11,
+  "status": "open",
+  "asset": "equity"
+ }
+]
