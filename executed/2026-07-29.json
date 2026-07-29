@@ -1,0 +1,444 @@
+[
+ {
+  "symbol": "LTC/USD",
+  "side": "short",
+  "entry_time": "2026-07-29T11:55:30.834975Z",
+  "entry_price": 45.198,
+  "exit_time": "2026-07-29T12:10:13.412459Z",
+  "exit_price": 45.2754,
+  "pnl_pct": -0.171,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "LTC/USD",
+  "side": "short",
+  "entry_time": "2026-07-29T11:55:30.834975Z",
+  "entry_price": 45.198,
+  "exit_time": "2026-07-29T12:10:13.412476Z",
+  "exit_price": 45.36,
+  "pnl_pct": -0.358,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "LTC/USD",
+  "side": "short",
+  "entry_time": "2026-07-29T11:55:30.834991Z",
+  "entry_price": 45.16,
+  "exit_time": "2026-07-29T12:10:13.412476Z",
+  "exit_price": 45.36,
+  "pnl_pct": -0.443,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "LTC/USD",
+  "side": "short",
+  "entry_time": "2026-07-29T11:55:30.834991Z",
+  "entry_price": 45.16,
+  "exit_time": "2026-07-29T12:10:13.412481Z",
+  "exit_price": 45.49,
+  "pnl_pct": -0.731,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "LTC/USD",
+  "side": "short",
+  "entry_time": "2026-07-29T11:55:30.834996Z",
+  "entry_price": 45.113,
+  "exit_time": "2026-07-29T12:10:13.412481Z",
+  "exit_price": 45.49,
+  "pnl_pct": -0.836,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "LTC/USD",
+  "side": "long",
+  "entry_time": "2026-07-29T12:10:13.412481Z",
+  "entry_price": 45.49,
+  "status": "open",
+  "asset": "crypto"
+ },
+ {
+  "symbol": "SOL/USD",
+  "side": "short",
+  "entry_time": "2026-07-29T11:55:32.615137Z",
+  "entry_price": 73.79,
+  "exit_time": "2026-07-29T12:10:11.135442Z",
+  "exit_price": 73.76,
+  "pnl_pct": 0.041,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "SOL/USD",
+  "side": "short",
+  "entry_time": "2026-07-29T11:55:32.615145Z",
+  "entry_price": 73.7778,
+  "exit_time": "2026-07-29T12:10:11.135442Z",
+  "exit_price": 73.76,
+  "pnl_pct": 0.024,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "SOL/USD",
+  "side": "short",
+  "entry_time": "2026-07-29T11:55:32.615145Z",
+  "entry_price": 73.7778,
+  "exit_time": "2026-07-29T12:10:11.135452Z",
+  "exit_price": 73.7989,
+  "pnl_pct": -0.029,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "SOL/USD",
+  "side": "short",
+  "entry_time": "2026-07-29T11:55:32.615151Z",
+  "entry_price": 73.7714,
+  "exit_time": "2026-07-29T12:10:11.135452Z",
+  "exit_price": 73.7989,
+  "pnl_pct": -0.037,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "SOL/USD",
+  "side": "short",
+  "entry_time": "2026-07-29T11:55:32.615151Z",
+  "entry_price": 73.7714,
+  "exit_time": "2026-07-29T12:10:11.135458Z",
+  "exit_price": 73.8,
+  "pnl_pct": -0.039,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "SOL/USD",
+  "side": "long",
+  "entry_time": "2026-07-29T12:10:11.135458Z",
+  "entry_price": 73.8,
+  "status": "open",
+  "asset": "crypto"
+ },
+ {
+  "symbol": "ONDS",
+  "side": "long",
+  "entry_time": "2026-07-29T13:34:00.12098Z",
+  "entry_price": 7.78,
+  "exit_time": "2026-07-29T14:26:21.194059Z",
+  "exit_price": 7.42,
+  "pnl_pct": -4.627,
+  "asset": "equity"
+ },
+ {
+  "symbol": "ONDS",
+  "side": "long",
+  "entry_time": "2026-07-29T13:34:14.514063Z",
+  "entry_price": 7.76,
+  "exit_time": "2026-07-29T14:26:21.194059Z",
+  "exit_price": 7.42,
+  "pnl_pct": -4.381,
+  "asset": "equity"
+ },
+ {
+  "symbol": "ONDS",
+  "side": "long",
+  "entry_time": "2026-07-29T13:34:31.410591Z",
+  "entry_price": 7.73,
+  "exit_time": "2026-07-29T14:26:21.194059Z",
+  "exit_price": 7.42,
+  "pnl_pct": -4.01,
+  "asset": "equity"
+ },
+ {
+  "symbol": "ONDS",
+  "side": "long",
+  "entry_time": "2026-07-29T13:34:45.868959Z",
+  "entry_price": 7.69,
+  "exit_time": "2026-07-29T14:26:21.194059Z",
+  "exit_price": 7.42,
+  "pnl_pct": -3.511,
+  "asset": "equity"
+ },
+ {
+  "symbol": "ONDS",
+  "side": "long",
+  "entry_time": "2026-07-29T13:34:45.868959Z",
+  "entry_price": 7.69,
+  "exit_time": "2026-07-29T14:26:22.247705Z",
+  "exit_price": 7.42,
+  "pnl_pct": -3.511,
+  "asset": "equity"
+ },
+ {
+  "symbol": "ONDS",
+  "side": "long",
+  "entry_time": "2026-07-29T13:34:52.466449Z",
+  "entry_price": 7.74,
+  "exit_time": "2026-07-29T14:26:22.247705Z",
+  "exit_price": 7.42,
+  "pnl_pct": -4.134,
+  "asset": "equity"
+ },
+ {
+  "symbol": "ONDS",
+  "side": "long",
+  "entry_time": "2026-07-29T13:34:56.008264Z",
+  "entry_price": 7.75,
+  "exit_time": "2026-07-29T14:26:22.247705Z",
+  "exit_price": 7.42,
+  "pnl_pct": -4.258,
+  "asset": "equity"
+ },
+ {
+  "symbol": "ONDS",
+  "side": "long",
+  "entry_time": "2026-07-29T14:28:43.998696Z",
+  "entry_price": 7.41,
+  "exit_time": "2026-07-29T19:33:09.708296Z",
+  "exit_price": 7.04,
+  "pnl_pct": -4.993,
+  "asset": "equity"
+ },
+ {
+  "symbol": "ONDS",
+  "side": "long",
+  "entry_time": "2026-07-29T14:28:44.817707Z",
+  "entry_price": 7.41,
+  "exit_time": "2026-07-29T19:33:09.708296Z",
+  "exit_price": 7.04,
+  "pnl_pct": -4.993,
+  "asset": "equity"
+ },
+ {
+  "symbol": "ONDS",
+  "side": "long",
+  "entry_time": "2026-07-29T14:28:45.322178Z",
+  "entry_price": 7.41,
+  "exit_time": "2026-07-29T19:33:10.362738Z",
+  "exit_price": 7.04,
+  "pnl_pct": -4.993,
+  "asset": "equity"
+ },
+ {
+  "symbol": "ONDS",
+  "side": "long",
+  "entry_time": "2026-07-29T14:28:46.066284Z",
+  "entry_price": 7.41,
+  "exit_time": "2026-07-29T19:33:10.362738Z",
+  "exit_price": 7.04,
+  "pnl_pct": -4.993,
+  "asset": "equity"
+ },
+ {
+  "symbol": "ONDS",
+  "side": "long",
+  "entry_time": "2026-07-29T14:28:46.066284Z",
+  "entry_price": 7.41,
+  "exit_time": "2026-07-29T19:33:10.903347Z",
+  "exit_price": 7.04,
+  "pnl_pct": -4.993,
+  "asset": "equity"
+ },
+ {
+  "symbol": "ONDS",
+  "side": "long",
+  "entry_time": "2026-07-29T14:28:46.066284Z",
+  "entry_price": 7.41,
+  "exit_time": "2026-07-29T19:33:11.580502Z",
+  "exit_price": 7.04,
+  "pnl_pct": -4.993,
+  "asset": "equity"
+ },
+ {
+  "symbol": "ONDS",
+  "side": "long",
+  "entry_time": "2026-07-29T14:28:46.066284Z",
+  "entry_price": 7.41,
+  "exit_time": "2026-07-29T19:33:12.099796Z",
+  "exit_price": 7.04,
+  "pnl_pct": -4.993,
+  "asset": "equity"
+ },
+ {
+  "symbol": "ONDS",
+  "side": "long",
+  "entry_time": "2026-07-29T14:28:46.516706Z",
+  "entry_price": 7.41,
+  "exit_time": "2026-07-29T19:33:12.931901Z",
+  "exit_price": 7.04,
+  "pnl_pct": -4.993,
+  "asset": "equity"
+ },
+ {
+  "symbol": "ONDS",
+  "side": "long",
+  "entry_time": "2026-07-29T14:28:46.516706Z",
+  "entry_price": 7.41,
+  "exit_time": "2026-07-29T19:33:13.579955Z",
+  "exit_price": 7.04,
+  "pnl_pct": -4.993,
+  "asset": "equity"
+ },
+ {
+  "symbol": "SNXX",
+  "side": "long",
+  "entry_time": "2026-07-29T13:48:10.091017Z",
+  "entry_price": 7.43,
+  "exit_time": "2026-07-29T13:57:18.565145Z",
+  "exit_price": 6.83,
+  "pnl_pct": -8.075,
+  "asset": "equity"
+ },
+ {
+  "symbol": "SNXX",
+  "side": "long",
+  "entry_time": "2026-07-29T13:48:10.091017Z",
+  "entry_price": 7.43,
+  "exit_time": "2026-07-29T13:57:19.216253Z",
+  "exit_price": 6.83,
+  "pnl_pct": -8.075,
+  "asset": "equity"
+ },
+ {
+  "symbol": "SNXX",
+  "side": "long",
+  "entry_time": "2026-07-29T13:58:14.879712Z",
+  "entry_price": 6.98,
+  "exit_time": "2026-07-29T14:26:12.304613Z",
+  "exit_price": 6.8,
+  "pnl_pct": -2.579,
+  "asset": "equity"
+ },
+ {
+  "symbol": "SNXX",
+  "side": "long",
+  "entry_time": "2026-07-29T13:58:14.879712Z",
+  "entry_price": 6.98,
+  "exit_time": "2026-07-29T14:26:12.922995Z",
+  "exit_price": 6.8,
+  "pnl_pct": -2.579,
+  "asset": "equity"
+ },
+ {
+  "symbol": "SNXX",
+  "side": "long",
+  "entry_time": "2026-07-29T13:58:14.879712Z",
+  "entry_price": 6.98,
+  "exit_time": "2026-07-29T14:26:14.284052Z",
+  "exit_price": 6.76,
+  "pnl_pct": -3.152,
+  "asset": "equity"
+ },
+ {
+  "symbol": "SNXX",
+  "side": "long",
+  "entry_time": "2026-07-29T13:58:15.810534Z",
+  "entry_price": 6.98,
+  "exit_time": "2026-07-29T14:26:14.284052Z",
+  "exit_price": 6.76,
+  "pnl_pct": -3.152,
+  "asset": "equity"
+ },
+ {
+  "symbol": "SNXX",
+  "side": "long",
+  "entry_time": "2026-07-29T13:58:16.246841Z",
+  "entry_price": 6.99,
+  "exit_time": "2026-07-29T14:26:14.284052Z",
+  "exit_price": 6.76,
+  "pnl_pct": -3.29,
+  "asset": "equity"
+ },
+ {
+  "symbol": "NOWL",
+  "side": "long",
+  "entry_time": "2026-07-29T14:28:35.655764Z",
+  "entry_price": 5.46,
+  "exit_time": "2026-07-29T15:58:11.271327Z",
+  "exit_price": 5.7,
+  "pnl_pct": 4.396,
+  "asset": "equity"
+ },
+ {
+  "symbol": "NOWL",
+  "side": "long",
+  "entry_time": "2026-07-29T14:28:36.366444Z",
+  "entry_price": 5.46,
+  "exit_time": "2026-07-29T15:58:11.271327Z",
+  "exit_price": 5.7,
+  "pnl_pct": 4.396,
+  "asset": "equity"
+ },
+ {
+  "symbol": "NOWL",
+  "side": "long",
+  "entry_time": "2026-07-29T14:28:37.161645Z",
+  "entry_price": 5.45,
+  "exit_time": "2026-07-29T15:58:11.271327Z",
+  "exit_price": 5.7,
+  "pnl_pct": 4.587,
+  "asset": "equity"
+ },
+ {
+  "symbol": "NOWL",
+  "side": "long",
+  "entry_time": "2026-07-29T14:28:37.161645Z",
+  "entry_price": 5.45,
+  "exit_time": "2026-07-29T15:58:12.067592Z",
+  "exit_price": 5.7,
+  "pnl_pct": 4.587,
+  "asset": "equity"
+ },
+ {
+  "symbol": "NOWL",
+  "side": "long",
+  "entry_time": "2026-07-29T14:28:37.98606Z",
+  "entry_price": 5.45,
+  "exit_time": "2026-07-29T15:58:12.067592Z",
+  "exit_price": 5.7,
+  "pnl_pct": 4.587,
+  "asset": "equity"
+ },
+ {
+  "symbol": "NOWL",
+  "side": "long",
+  "entry_time": "2026-07-29T14:28:37.98606Z",
+  "entry_price": 5.45,
+  "exit_time": "2026-07-29T15:58:12.464871Z",
+  "exit_price": 5.7,
+  "pnl_pct": 4.587,
+  "asset": "equity"
+ },
+ {
+  "symbol": "NOWL",
+  "side": "long",
+  "entry_time": "2026-07-29T14:28:37.98606Z",
+  "entry_price": 5.45,
+  "exit_time": "2026-07-29T15:58:13.003388Z",
+  "exit_price": 5.7,
+  "pnl_pct": 4.587,
+  "asset": "equity"
+ },
+ {
+  "symbol": "NOWL",
+  "side": "long",
+  "entry_time": "2026-07-29T14:28:37.98606Z",
+  "entry_price": 5.45,
+  "exit_time": "2026-07-29T15:58:19.269319Z",
+  "exit_price": 5.7,
+  "pnl_pct": 4.587,
+  "asset": "equity"
+ },
+ {
+  "symbol": "APLD",
+  "side": "long",
+  "entry_time": "2026-07-29T15:59:10.535401Z",
+  "entry_price": 23.8,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "APLD",
+  "side": "long",
+  "entry_time": "2026-07-29T15:59:11.297387Z",
+  "entry_price": 23.8,
+  "status": "open",
+  "asset": "equity"
+ }
+]
