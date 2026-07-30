@@ -1,0 +1,58 @@
+[
+ {
+  "symbol": "APLD",
+  "side": "short",
+  "entry_time": "2026-07-30T13:34:08.413496Z",
+  "entry_price": 26.27,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "APLD",
+  "side": "short",
+  "entry_time": "2026-07-30T13:35:32.257497Z",
+  "entry_price": 26.22,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "APLD",
+  "side": "short",
+  "entry_time": "2026-07-30T13:35:35.155144Z",
+  "entry_price": 26.25,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "APLD",
+  "side": "short",
+  "entry_time": "2026-07-30T13:35:37.552759Z",
+  "entry_price": 26.26,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "APLD",
+  "side": "short",
+  "entry_time": "2026-07-30T13:35:39.250625Z",
+  "entry_price": 26.26,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "APLD",
+  "side": "short",
+  "entry_time": "2026-07-30T13:35:40.899611Z",
+  "entry_price": 26.25,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "SPY",
+  "side": "long",
+  "entry_time": "2026-07-30T18:08:02.334601Z",
+  "entry_price": 739.996,
+  "status": "open",
+  "asset": "equity"
+ }
+]
