@@ -1,0 +1,80 @@
+[
+ {
+  "symbol": "BRUNW",
+  "side": "long",
+  "entry_time": "2026-07-31T13:35:21.863499Z",
+  "entry_price": 9.52,
+  "exit_time": "2026-07-31T14:19:40.608797Z",
+  "exit_price": 7.57,
+  "pnl_pct": -20.483,
+  "asset": "equity"
+ },
+ {
+  "symbol": "BRUNW",
+  "side": "long",
+  "entry_time": "2026-07-31T13:35:48.952491Z",
+  "entry_price": 9.52,
+  "exit_time": "2026-07-31T14:19:40.608797Z",
+  "exit_price": 7.57,
+  "pnl_pct": -20.483,
+  "asset": "equity"
+ },
+ {
+  "symbol": "BRUNW",
+  "side": "long",
+  "entry_time": "2026-07-31T13:35:48.952491Z",
+  "entry_price": 9.52,
+  "exit_time": "2026-07-31T14:19:41.320259Z",
+  "exit_price": 7.58,
+  "pnl_pct": -20.378,
+  "asset": "equity"
+ },
+ {
+  "symbol": "BRUNW",
+  "side": "long",
+  "entry_time": "2026-07-31T13:35:48.952491Z",
+  "entry_price": 9.52,
+  "exit_time": "2026-07-31T14:19:42.136449Z",
+  "exit_price": 7.58,
+  "pnl_pct": -20.378,
+  "asset": "equity"
+ },
+ {
+  "symbol": "BRUNW",
+  "side": "long",
+  "entry_time": "2026-07-31T13:35:48.952491Z",
+  "entry_price": 9.52,
+  "exit_time": "2026-07-31T14:19:42.49961Z",
+  "exit_price": 7.58,
+  "pnl_pct": -20.378,
+  "asset": "equity"
+ },
+ {
+  "symbol": "BRUNW",
+  "side": "long",
+  "entry_time": "2026-07-31T13:36:00.413691Z",
+  "entry_price": 9.52,
+  "exit_time": "2026-07-31T14:19:42.49961Z",
+  "exit_price": 7.58,
+  "pnl_pct": -20.378,
+  "asset": "equity"
+ },
+ {
+  "symbol": "BRUNW",
+  "side": "long",
+  "entry_time": "2026-07-31T13:36:10.210329Z",
+  "entry_price": 9.52,
+  "exit_time": "2026-07-31T14:19:42.49961Z",
+  "exit_price": 7.58,
+  "pnl_pct": -20.378,
+  "asset": "equity"
+ },
+ {
+  "symbol": "CAPR",
+  "side": "long",
+  "entry_time": "2026-07-31T18:34:29.750446Z",
+  "entry_price": 3.94,
+  "status": "open",
+  "asset": "equity"
+ }
+]
