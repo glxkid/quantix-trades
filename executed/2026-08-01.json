@@ -1,0 +1,26 @@
+[
+ {
+  "symbol": "SOL/USD",
+  "side": "short",
+  "entry_time": "2026-08-01T19:00:34.334729Z",
+  "entry_price": 71.0304,
+  "status": "open",
+  "asset": "crypto"
+ },
+ {
+  "symbol": "SOL/USD",
+  "side": "short",
+  "entry_time": "2026-08-01T19:00:34.334743Z",
+  "entry_price": 71.0249,
+  "status": "open",
+  "asset": "crypto"
+ },
+ {
+  "symbol": "SOL/USD",
+  "side": "short",
+  "entry_time": "2026-08-01T19:00:34.334748Z",
+  "entry_price": 71.02,
+  "status": "open",
+  "asset": "crypto"
+ }
+]
