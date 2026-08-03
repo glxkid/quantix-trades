@@ -1,0 +1,52 @@
+[
+ {
+  "symbol": "CAPR",
+  "side": "short",
+  "entry_time": "2026-08-03T13:34:33.431574Z",
+  "entry_price": 3.85,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "RCON",
+  "side": "long",
+  "entry_time": "2026-08-03T16:03:41.339091Z",
+  "entry_price": 0.4386,
+  "exit_time": "2026-08-03T17:19:10.514772Z",
+  "exit_price": 0.42,
+  "pnl_pct": -4.241,
+  "asset": "equity"
+ },
+ {
+  "symbol": "WU",
+  "side": "long",
+  "entry_time": "2026-08-03T16:34:12.889175Z",
+  "entry_price": 6.55,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "MU",
+  "side": "long",
+  "entry_time": "2026-08-03T19:00:17.750772Z",
+  "entry_price": 825.9,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "MU",
+  "side": "long",
+  "entry_time": "2026-08-03T19:00:19.538462Z",
+  "entry_price": 825.66,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "MU",
+  "side": "long",
+  "entry_time": "2026-08-03T19:00:21.186068Z",
+  "entry_price": 825.66,
+  "status": "open",
+  "asset": "equity"
+ }
+]
