@@ -1,0 +1,140 @@
+[
+ {
+  "symbol": "BTC/USD",
+  "side": "short",
+  "entry_time": "2026-08-04T03:15:35.976857Z",
+  "entry_price": 63598.02,
+  "exit_time": "2026-08-04T14:01:18.408433Z",
+  "exit_price": 63614.665,
+  "pnl_pct": -0.026,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "BTC/USD",
+  "side": "long",
+  "entry_time": "2026-08-04T14:01:18.408433Z",
+  "entry_price": 63614.665,
+  "status": "open",
+  "asset": "crypto"
+ },
+ {
+  "symbol": "LTC/USD",
+  "side": "short",
+  "entry_time": "2026-08-04T03:15:44.257247Z",
+  "entry_price": 44.182,
+  "status": "open",
+  "asset": "crypto"
+ },
+ {
+  "symbol": "LTC/USD",
+  "side": "short",
+  "entry_time": "2026-08-04T03:15:44.257257Z",
+  "entry_price": 44.121,
+  "status": "open",
+  "asset": "crypto"
+ },
+ {
+  "symbol": "LTC/USD",
+  "side": "short",
+  "entry_time": "2026-08-04T03:15:44.257262Z",
+  "entry_price": 44.121,
+  "status": "open",
+  "asset": "crypto"
+ },
+ {
+  "symbol": "PLTR",
+  "side": "short",
+  "entry_time": "2026-08-04T13:30:47.923857Z",
+  "entry_price": 148.0,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "PLTR",
+  "side": "short",
+  "entry_time": "2026-08-04T13:34:50.371145Z",
+  "entry_price": 149.44,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "PLTR",
+  "side": "short",
+  "entry_time": "2026-08-04T13:35:35.939898Z",
+  "entry_price": 150.64,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "PLTR",
+  "side": "short",
+  "entry_time": "2026-08-04T13:41:15.921737Z",
+  "entry_price": 151.56,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "PLTR",
+  "side": "short",
+  "entry_time": "2026-08-04T13:41:16.517527Z",
+  "entry_price": 151.45,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "PLTR",
+  "side": "short",
+  "entry_time": "2026-08-04T13:41:23.201884Z",
+  "entry_price": 151.47,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "MU",
+  "side": "short",
+  "entry_time": "2026-08-04T13:32:29.724294Z",
+  "entry_price": 867.08,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "MU",
+  "side": "short",
+  "entry_time": "2026-08-04T13:32:59.084619Z",
+  "entry_price": 865.75,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "SOL/USD",
+  "side": "long",
+  "entry_time": "2026-08-04T14:01:20.744498Z",
+  "entry_price": 73.49,
+  "status": "open",
+  "asset": "crypto"
+ },
+ {
+  "symbol": "SOL/USD",
+  "side": "long",
+  "entry_time": "2026-08-04T14:01:20.744509Z",
+  "entry_price": 73.492,
+  "status": "open",
+  "asset": "crypto"
+ },
+ {
+  "symbol": "SOL/USD",
+  "side": "long",
+  "entry_time": "2026-08-04T14:01:20.744518Z",
+  "entry_price": 73.502,
+  "status": "open",
+  "asset": "crypto"
+ },
+ {
+  "symbol": "WU",
+  "side": "short",
+  "entry_time": "2026-08-04T14:44:59.088545Z",
+  "entry_price": 6.84,
+  "status": "open",
+  "asset": "equity"
+ }
+]
