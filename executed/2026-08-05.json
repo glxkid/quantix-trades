@@ -1,0 +1,26 @@
+[
+ {
+  "symbol": "NFLX",
+  "side": "short",
+  "entry_time": "2026-08-05T13:39:40.986387Z",
+  "entry_price": 74.65,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "NFLX",
+  "side": "short",
+  "entry_time": "2026-08-05T13:39:41.144288Z",
+  "entry_price": 74.65,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "NFLX",
+  "side": "short",
+  "entry_time": "2026-08-05T13:39:42.254085Z",
+  "entry_price": 74.65,
+  "status": "open",
+  "asset": "equity"
+ }
+]
