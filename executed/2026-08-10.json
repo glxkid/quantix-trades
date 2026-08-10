@@ -1,0 +1,18 @@
+[
+ {
+  "symbol": "RIG",
+  "side": "short",
+  "entry_time": "2026-08-10T14:32:56.080899Z",
+  "entry_price": 5.62,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "RIG",
+  "side": "short",
+  "entry_time": "2026-08-10T14:32:56.764725Z",
+  "entry_price": 5.62,
+  "status": "open",
+  "asset": "equity"
+ }
+]
