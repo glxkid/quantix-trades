@@ -1,0 +1,60 @@
+[
+ {
+  "symbol": "SOL/USD",
+  "side": "short",
+  "entry_time": "2026-08-11T14:11:52.303312Z",
+  "entry_price": 75.87,
+  "exit_time": "2026-08-11T15:12:08.863187Z",
+  "exit_price": 75.15,
+  "pnl_pct": 0.949,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "SOL/USD",
+  "side": "short",
+  "entry_time": "2026-08-11T14:11:52.303322Z",
+  "entry_price": 75.862,
+  "exit_time": "2026-08-11T15:12:08.863187Z",
+  "exit_price": 75.15,
+  "pnl_pct": 0.939,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "SOL/USD",
+  "side": "short",
+  "entry_time": "2026-08-11T14:11:52.303322Z",
+  "entry_price": 75.862,
+  "exit_time": "2026-08-11T15:12:08.863204Z",
+  "exit_price": 75.18,
+  "pnl_pct": 0.899,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "SOL/USD",
+  "side": "short",
+  "entry_time": "2026-08-11T14:11:52.303331Z",
+  "entry_price": 75.84,
+  "exit_time": "2026-08-11T15:12:08.863204Z",
+  "exit_price": 75.18,
+  "pnl_pct": 0.87,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "SOL/USD",
+  "side": "short",
+  "entry_time": "2026-08-11T14:11:52.303331Z",
+  "entry_price": 75.84,
+  "exit_time": "2026-08-11T15:12:08.863212Z",
+  "exit_price": 75.2083,
+  "pnl_pct": 0.833,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "SOL/USD",
+  "side": "short",
+  "entry_time": "2026-08-11T14:11:52.303331Z",
+  "entry_price": 75.84,
+  "status": "open",
+  "asset": "crypto"
+ }
+]
