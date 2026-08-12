@@ -1,0 +1,26 @@
+[
+ {
+  "symbol": "RIOT260904P00020000",
+  "side": "short",
+  "entry_time": "2026-08-12T19:09:44.690344Z",
+  "entry_price": 1.35,
+  "status": "open",
+  "asset": "option"
+ },
+ {
+  "symbol": "RIOT260904P00020000",
+  "side": "short",
+  "entry_time": "2026-08-12T19:09:44.82679Z",
+  "entry_price": 1.35,
+  "status": "open",
+  "asset": "option"
+ },
+ {
+  "symbol": "RIOT260904P00020000",
+  "side": "short",
+  "entry_time": "2026-08-12T19:09:44.942565Z",
+  "entry_price": 1.35,
+  "status": "open",
+  "asset": "option"
+ }
+]
