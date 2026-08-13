@@ -1,0 +1,128 @@
+[
+ {
+  "symbol": "BTC/USD",
+  "side": "short",
+  "entry_time": "2026-08-13T00:37:50.099083Z",
+  "entry_price": 63507.2,
+  "exit_time": "2026-08-13T02:08:16.073951Z",
+  "exit_price": 63412.33,
+  "pnl_pct": 0.149,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "BTC/USD",
+  "side": "long",
+  "entry_time": "2026-08-13T02:08:16.073951Z",
+  "entry_price": 63412.33,
+  "status": "open",
+  "asset": "crypto"
+ },
+ {
+  "symbol": "ETH/USD",
+  "side": "short",
+  "entry_time": "2026-08-13T00:37:50.681884Z",
+  "entry_price": 1878.3,
+  "exit_time": "2026-08-13T02:08:18.120034Z",
+  "exit_price": 1877.006,
+  "pnl_pct": 0.069,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "ETH/USD",
+  "side": "long",
+  "entry_time": "2026-08-13T02:08:18.120034Z",
+  "entry_price": 1877.006,
+  "status": "open",
+  "asset": "crypto"
+ },
+ {
+  "symbol": "LTC/USD",
+  "side": "short",
+  "entry_time": "2026-08-13T00:37:51.350898Z",
+  "entry_price": 44.808,
+  "exit_time": "2026-08-13T01:38:07.691239Z",
+  "exit_price": 44.8232,
+  "pnl_pct": -0.034,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "LTC/USD",
+  "side": "short",
+  "entry_time": "2026-08-13T00:37:51.350937Z",
+  "entry_price": 44.79,
+  "exit_time": "2026-08-13T01:38:07.691239Z",
+  "exit_price": 44.8232,
+  "pnl_pct": -0.074,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "LTC/USD",
+  "side": "short",
+  "entry_time": "2026-08-13T00:37:51.350937Z",
+  "entry_price": 44.79,
+  "exit_time": "2026-08-13T01:38:07.691255Z",
+  "exit_price": 44.8881,
+  "pnl_pct": -0.219,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "LTC/USD",
+  "side": "short",
+  "entry_time": "2026-08-13T00:37:51.350949Z",
+  "entry_price": 44.679,
+  "exit_time": "2026-08-13T01:38:07.691255Z",
+  "exit_price": 44.8881,
+  "pnl_pct": -0.468,
+  "asset": "crypto"
+ },
+ {
+  "symbol": "LTC/USD",
+  "side": "long",
+  "entry_time": "2026-08-13T01:38:07.691255Z",
+  "entry_price": 44.8881,
+  "status": "open",
+  "asset": "crypto"
+ },
+ {
+  "symbol": "INTC260904P00103000",
+  "side": "short",
+  "entry_time": "2026-08-13T13:56:29.585907Z",
+  "entry_price": 6.0,
+  "status": "open",
+  "asset": "option"
+ },
+ {
+  "symbol": "SOFI260904P00018000",
+  "side": "short",
+  "entry_time": "2026-08-13T14:27:51.066912Z",
+  "entry_price": 0.7,
+  "status": "open",
+  "asset": "option"
+ },
+ {
+  "symbol": "RIOT260904P00020000",
+  "side": "long",
+  "entry_time": "2026-08-13T14:36:23.947269Z",
+  "entry_price": 1.56,
+  "exit_time": "2026-08-13T14:58:40.283568Z",
+  "exit_price": 1.55,
+  "pnl_pct": -0.641,
+  "asset": "option"
+ },
+ {
+  "symbol": "HOOD260904P00098000",
+  "side": "short",
+  "entry_time": "2026-08-13T15:17:04.674006Z",
+  "entry_price": 5.05,
+  "status": "open",
+  "asset": "option"
+ },
+ {
+  "symbol": "CRWV260904P00105000",
+  "side": "short",
+  "entry_time": "2026-08-13T18:12:43.887343Z",
+  "entry_price": 6.7,
+  "status": "open",
+  "asset": "option"
+ }
+]
