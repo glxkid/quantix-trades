@@ -1,0 +1,42 @@
+[
+ {
+  "symbol": "QQQ",
+  "side": "long",
+  "entry_time": "2026-08-14T13:35:47.2913Z",
+  "entry_price": 732.43,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "QQQ",
+  "side": "long",
+  "entry_time": "2026-08-14T13:35:48.153408Z",
+  "entry_price": 732.47,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "QQQ",
+  "side": "long",
+  "entry_time": "2026-08-14T13:35:49.72064Z",
+  "entry_price": 732.42,
+  "status": "open",
+  "asset": "equity"
+ },
+ {
+  "symbol": "HPE260904P00058000",
+  "side": "short",
+  "entry_time": "2026-08-14T14:39:04.090229Z",
+  "entry_price": 3.8,
+  "status": "open",
+  "asset": "option"
+ },
+ {
+  "symbol": "SNAP260904P00005500",
+  "side": "short",
+  "entry_time": "2026-08-14T15:27:32.958451Z",
+  "entry_price": 0.28,
+  "status": "open",
+  "asset": "option"
+ }
+]
