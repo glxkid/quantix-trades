@@ -1,0 +1,34 @@
+[
+ {
+  "symbol": "ETH/USD",
+  "side": "short",
+  "entry_time": "2026-08-19T15:28:52.464325Z",
+  "entry_price": 2082.36,
+  "status": "open",
+  "asset": "crypto"
+ },
+ {
+  "symbol": "SOL/USD",
+  "side": "short",
+  "entry_time": "2026-08-19T21:14:48.665669Z",
+  "entry_price": 85.963,
+  "status": "open",
+  "asset": "crypto"
+ },
+ {
+  "symbol": "SOL/USD",
+  "side": "short",
+  "entry_time": "2026-08-19T21:14:48.665684Z",
+  "entry_price": 85.93,
+  "status": "open",
+  "asset": "crypto"
+ },
+ {
+  "symbol": "SOL/USD",
+  "side": "short",
+  "entry_time": "2026-08-19T21:14:48.66568Z",
+  "entry_price": 85.9564,
+  "status": "open",
+  "asset": "crypto"
+ }
+]
